@@ -47,4 +47,16 @@ let allMusic = [
     img: "music-8",
     src: "music-8",
   },
+  {
+    name: "Tum jo aaye",
+    artist: "Rahat Fateh Ali",
+    img: "music-9",
+    src: "music-9",
+  },
+  {
+    name: "Oo Karam khudaya Ha",
+    artist: "Atif Aslam",
+    img: "music-10",
+    src: "music-10",
+  },
 ];
