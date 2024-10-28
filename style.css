@@ -5,9 +5,10 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+/* background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); */
 :root {
-  --pink: #ff7d74;
-  --violet: #6ea1a3;
+  --pink: #fc466b;
+  --violet: #3f5efb;
   --lightblack: #515c6f;
   --white: #ffffff;
   --darkwhite: #cecaca;
